@@ -1,5 +1,5 @@
 # Assessment 2019: Machine Learning and Statistics 
-Due: November 29th, 2019
+Due: December 13th, 2019
 
 ## Objective
 This assessment concerns the well-known Boston House Prices dataset (https://www.kaggle.com/c/boston-housing) and the Python packages scipy, keras, and jupyter.
@@ -14,4 +14,8 @@ All of this will be delivered within the Jupyter Notebook.
 
 ## How to run the notebook
 
-tbc
+Project can be found at: 
+
+https://github.com/Sarahkel/machine-learning-assessment/blob/master/Boston%20House%20Prices%20-%20Machine%20learning%20and%20statistics%20assessments.ipynb
+
+Please open/download and run all cells in the notebook top to bottom to ensure all variables and dataframes are accurately available at time of use.
